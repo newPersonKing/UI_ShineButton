@@ -32,10 +32,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        if (getSupportActionBar() != null) {
-//            getSupportActionBar().hide();
-        }
-//        setFullScreen(this);
         shineButton = (ShineButton) findViewById(R.id.po_image0);
         listDemo = (Button) findViewById(R.id.btn_list_demo);
         fragmentDemo = (Button) findViewById(R.id.btn_fragment_demo);

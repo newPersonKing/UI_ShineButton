@@ -1,3 +1,7 @@
+___
+知识点：点赞按钮 动态添加 扩散动画 扩散动画是一个单独的view
+___
+
 # ShineButton
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ChadCSong/ShineButton/raw/master/LICENSE)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
